@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "K-means_Algorithm", "K-means_Algorithm\K-means_Algorithm.pyproj", "{FD739C2C-7AF0-4D5D-8A11-714573DFAADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD739C2C-7AF0-4D5D-8A11-714573DFAADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD739C2C-7AF0-4D5D-8A11-714573DFAADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1CDF7E7-B79B-40B4-B17D-1723F2FCC9A8}
+	EndGlobalSection
+EndGlobal
